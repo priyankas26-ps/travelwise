@@ -2,7 +2,7 @@
   "name": "travelwise",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://priyankas26-ps.github.io/travelwise",
+  "homepage": "https://github.com/priyankas26-ps/travelwise",
   "type": "module",
   "scripts": {
     "dev": "vite",
